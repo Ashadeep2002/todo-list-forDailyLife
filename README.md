@@ -5,6 +5,14 @@ Fast, minimal UI and easy task management.
 
 ---
 
+### 🚀 Live Demo
+
+Click the link below to view the project live:
+
+🔗 **Live Preview:** https://ashadeep2002.github.io/todo-list-forDailyLife/
+
+---
+
 ### 🛠 Tech Stack
 
 React (Hooks)
